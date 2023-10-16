@@ -1,0 +1,8 @@
+.home-btn{
+    background-color: rgb(3, 3, 139);
+    color:white;
+}
+.home-btn:hover{
+    color: black;
+    background-color: pink;
+}
